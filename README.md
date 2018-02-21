@@ -24,5 +24,5 @@
 5. No es muy sencilla de utilizar.
 
 ## Mejoras futuras
-1. Implementar un drag 'n drop en el mediaplayer para así arrastrar videos y reproducirlos automaticamente.
+1. Implementar un drag 'n drop en el mediaplayer para así arrastrar vídeos y reproducirlos automáticamente.
 2. Mejorar el diseño. 
