@@ -10,6 +10,10 @@
   de ejemplo y descripción, se reproducen automaticamente 
   al hacer click sobre de ellos, esta sección también cuenta 
   con su scroll vertical para acceder más fácil a los videos. 
+  Pasado el tiempo se agregó una caracteristica para poder hacer
+  drag 'n drop de los videos desde la pc del usuario, así que logra
+  que aparte de los videos que existen por default, la página 
+  pueda fungir como un reproductor de video funcional.
 
 ## ¿Cómo funciona?
   La página funciona con HTML, para ser más especificos con 
@@ -17,12 +21,15 @@
   poder darle formato, y gracias a las caracteristicas del
   HTML5 se pudo utilizar también javaScript para facilitar
   algunas caracteristicas del reproductor de video.
+  
+  Pasado el tiempo se agregaron caracteristicas gracias a 
+  el framework de bootstrap, entre ellas la responsividad, y
+  la facilidad de adherir videos por medio de drag 'n drop
+  desde la pc.
 
 ## Problemas conocidos
-1. La página no contiene un diseño muy agradable a la vista
-2. Puede ser poco ortodoxo en su manejo. 
-5. No es muy sencilla de utilizar.
+2. Puede ser poco ortodoxo en su manejo.
+3. Podría contar con un diseño más responsivo.
 
 ## Mejoras futuras
-1. Implementar un drag 'n drop en el mediaplayer para así arrastrar vídeos y reproducirlos automáticamente.
-2. Mejorar el diseño. 
+sin mejoras planeadas por el momento.
