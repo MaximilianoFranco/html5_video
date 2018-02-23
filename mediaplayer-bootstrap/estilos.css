@@ -1,0 +1,31 @@
+.scrollbar {
+  height:450px;
+  overflow-y: scroll;
+}
+
+header {   
+    display:block;
+    background:#286af0;
+    padding:10px 0px;
+}
+
+article {
+    background: #ccc;
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+
+aside {
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+
+#videos {
+    background: #ccc;
+    padding-top:30px;
+}
+
+.dropdiv{
+	background-image: url("camara.png");
+}
+
