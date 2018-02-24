@@ -27,6 +27,19 @@
   la facilidad de adherir videos por medio de drag 'n drop
   desde la pc.
 
+## ¿qué y cómo funciona bootstrap?
+Bootstrap es un framework que utiliza estilos css y funciones de javascript(manejado con jquerry) con el cual los usuarios pueden crear interfaces web 
+adaptables al entorno en el que se estan visualizando(responsivas).
+
+La maquetación de la página se hace por medio de un grid el cual trabaja con doce columnas las cuales se adaptan dependiendo del tamaño de la pantalla del
+dispositivo con el que se este trabajando. Para trabajar con el grid se declara un div el cual sea de clase "row" lo cual denotará que a continuación se
+hará una división por columnas. Las columnas que existen son xs,sm,md,lg con xs como el tipo de columna pas chico y lg como el tipo de columna mas grande.
+Para especificar el tamaño que abarcara un elemento se usará la clase "col-[xs,ms,md,lg]-[1,2,3,4,5,6,7,8,9,10,11,12]" donde se especifica la columna y 
+el número de espacios que utilizará.
+
+En un mismo elemento se pueden especificar que tamaño debe tomar el elemento para cada tamaño de columna por lo que dependiendo del tamaño de la pantalla del 
+se tomará el diseño de la columna en función.
+
 ## Problemas conocidos
 2. Puede ser poco ortodoxo en su manejo.
 3. Podría contar con un diseño más responsivo.
